@@ -1,0 +1,8 @@
+{
+  "data_source": {
+    "name": "open_weather_api"
+  },
+  "plot": {
+    "name": "plotly_plot"
+  }
+}
